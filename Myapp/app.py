@@ -1,4 +1,11 @@
+
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
+# @Time: 2019/11/8
+# @Author: Tigerots
+
 from flask import Flask
+
 
 app = Flask(__name__)
 
