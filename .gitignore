@@ -4,6 +4,8 @@
 
 # IntelliJ project files
 .idea
+.idea\misc.xml
+.idea\PythonWeb.iml
 *.iml
 out
 gen
@@ -18,7 +20,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.idea/
 build/
 develop-eggs/
 dist/
